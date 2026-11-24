@@ -14,7 +14,7 @@ The reverse-direction ping and EC2 Instance Connect Endpoint setup have not yet 
 
 ## 2. Architecture
 
-![AWS Transit Gateway architecture infographic](images/architecture-infographic.png)
+![AWS Transit Gateway architecture infographic](/architecture-infographic.png)
 
 ### Architecture at a glance
 
